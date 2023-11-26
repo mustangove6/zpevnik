@@ -27,7 +27,7 @@ jobs:
         with:
           root_file: zpevnik.tex
       - name: Create index
-      - run: texlua songidx.lua contents.sxd contents.sbx 
+        run: texlua songidx.lua contents.sxd contents.sbx 
       - name: Compile songbook
         uses: xu-cheng/latex-action@v3
         with:
