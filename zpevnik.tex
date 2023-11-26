@@ -20,7 +20,7 @@
 \renewcommand{\printchord}[1]{\bf\sffamily\slshape#1} %Vzhled akordů
 %\baselineadj=-10pt plus 1pt minus 1pt
 
-%\newindex{contentscz}{contentscz}
+\newindex{contents}{contents}
 %\newindex{contentsen}{contentsen}
 \begin{document}
 	\maketitle
@@ -31,10 +31,10 @@
 	\songpos{3}
 	
 
-	\begin{songs}{}%{contentscz}
+	\begin{songs}{contents}
 	\input{songlist-cz.tex}
 	\end{songs}
 
-	%\showindex[3]{Rejstřík - české}{contentscz}
+	\showindex[3]{Rejstřík}{contents}
 	%\showindex{Rejstřík - anglické}{contentsen}
 \end{document}
