@@ -17,8 +17,8 @@
 %\usepackage{fullpage}
 \renewcommand{\everychorus}{\textnote{R:}}
 
-\newindex{contentscz}{contentscz}
-\newindex{contentsen}{contentsen}
+%\newindex{contentscz}{contentscz}
+%\newindex{contentsen}{contentsen}
 \begin{document}
 	\maketitle
 	\thispagestyle{empty}
@@ -28,13 +28,10 @@
 	\songpos{3}
 	
 
-	\begin{songs}{contentscz}
+	\begin{songs}%{contentscz}
 	\input{songlist-cz.tex}
 	\end{songs}
-	\begin{songs}{contentsen}
-	\input{songlist-en.tex}
-	\end{songs}
 
-	\showindex[3]{Rejstřík - české}{contentscz}
-	\showindex{Rejstřík - anglické}{contentsen}
+	%\showindex[3]{Rejstřík - české}{contentscz}
+	%\showindex{Rejstřík - anglické}{contentsen}
 \end{document}
