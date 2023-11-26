@@ -1,0 +1,340 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.1)  26 NOV 2023 17:42
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**zpevnik.tex
+(./zpevnik.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-23>
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/10/25 v3.96 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen149
+\l@unhyphenated=\language89
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel-czech/czech.ldf
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+Package babel Info: Making " an active character on input line 172.
+\cs@wordlen=\count199
+Package babel Info: Making - an active character on input line 226.
+))
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel/locale/cs/babel-czech.tex
+Package babel Info: Importing font and identification data for czech
+(babel)             from babel-cs.ini. Reported on input line 11.
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/songs/songs.sty
+Package: songs 2018/09/12 v3.1 Songs package
+\SB@dimen=\dimen152
+\SB@dimenii=\dimen153
+\SB@dimeniii=\dimen154
+\SB@dimeniv=\dimen155
+\SB@box=\box51
+\SB@boxii=\box52
+\SB@boxiii=\box53
+\SB@toks=\toks21
+\SB@cnt=\count266
+\SB@cntii=\count267
+\SB@skip=\skip50
+\SB@envbox=\box54
+\c@songnum=\count268
+\c@versenum=\count269
+\versesep=\skip51
+\afterpreludeskip=\skip52
+\beforepostludeskip=\skip53
+\baselineadj=\skip54
+\idxheadwidth=\skip55
+\songnumwidth=\skip56
+\versenumwidth=\skip57
+\cbarwidth=\skip58
+\sbarheight=\skip59
+\vvpenalty=\count270
+\ccpenalty=\count271
+\vcpenalty=\count272
+\cvpenalty=\count273
+\brkpenalty=\count274
+\spenalty=\count275
+\minfrets=\count276
+\SB@colwidth=\dimen156
+\SB@songbox=\box55
+\SB@numcols=\count277
+\SB@colnum=\count278
+\SB@colbox=\box56
+\SB@pgbox=\box57
+\SB@mrkbox=\box58
+\SB@groupcnt=\count279
+\SB@titlelist=\toks22
+\SB@titletail=\toks23
+\SB@parindent=\dimen157
+\SB@chorusbox=\box59
+\SB@cmarkclass=\marks4
+\SB@nocmarkclass=\marks5
+\SB@grouplvl=\count280
+\SB@transposefactor=\count281
+\SB@lyric=\toks24
+\SB@numhyps=\count282
+\SB@lyricnohyp=\toks25
+\SB@lyricbox=\box60
+\SB@chordbox=\box61
+\SB@cr@=\toks26
+\SB@ctail=\toks27
+\SB@fretwidth=\skip60
+\SB@tabindent=\dimen158
+\c@SB@songsnum=\count283
+\SB@songwrites=\box62
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3785.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/mathcolor.ltx)))
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box63
+)
+(./zpevnik.aux)
+\openout1 = `zpevnik.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=528.93675pt
+* \textheight=681.15898pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count285
+\scratchdimen=\dimen159
+\scratchbox=\box64
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen160
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks29
+) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<cover.png, id=1, 642.4pt x 462.72874pt>
+File: cover.png Graphic file (type png)
+<use cover.png>
+Package pdftex.def Info: cover.png  used on input line 25.
+(pdftex.def)             Requested size: 476.03984pt x 342.90816pt.
+
+[1
+
+{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./cover.png
+>] (./songlist-cz.tex (./songs/1-signalni.tex) (./songs/1982.tex)
+(./songs/amazonka.tex [2]) (./songs/amerika.tex [3]) (./songs/andele.tex)
+(./songs/antidepresivni-rybicka.tex [4]) (./songs/batalion.tex [5])
+(./songs/bedna-od-whisky.tex [6]) (./songs/bez-dal.tex [7]) (./songs/buvol.tex
+[8]) (./songs/cesta.tex [9]) (./songs/cerna-dira.tex) (./songs/colorado.tex
+[10]) (./songs/carodejnice-z-amesbury.tex [11]) (./songs/cmelak.tex [12])
+(./songs/ctyri-slunce.tex [13]) (./songs/dajana.tex [14]) (./songs/darling.tex
+[15]) (./songs/detaily.tex [16]) (./songs/dezolat.tex [17])
+(./songs/divoke-kone.tex [18]) (./songs/dokud-se-zpiva.tex [19])
+(./songs/dva_havrani.tex [20]) (./songs/gastrosexual.tex [21])
+(./songs/hej-teto.tex [22]) (./songs/hlidac-krav.tex [23])
+(./songs/hodinovy-hotel.tex [24]) (./songs/hruska.tex) (./songs/huslicky.tex
+[25]) (./songs/chci-tancit.tex [26]) (./songs/i-cesta-muze-byt-cil.tex [27])
+(./songs/jdem-zpatky-do-lesu.tex [28]) (./songs/jelen.tex [29])
+(./songs/karavana-mraku.tex [30]) (./songs/kazdy-rano.tex [31])
+(./songs/kdyz-me-brali-za-vojaka.tex [32]) (./songs/klara.tex [33])
+(./songs/klidna-jako-voda.tex [34]) (./songs/krabicka.tex [35])
+(./songs/letim-hledat-svety.tex [36]) (./songs/leto.tex [37])
+(./songs/lokomotiva.tex [38]) (./songs/made-in-valmez.tex [39])
+(./songs/magdalena.tex [40]) (./songs/marie.tex [41]) (./songs/mezi-horami.tex
+[42]) (./songs/mesic.tex) (./songs/modra1.tex [43]) (./songs/modra2.tex)
+(./songs/morituri-te-salutant.tex [44]) (./songs/nad-stadem-koni.tex [45])
+(./songs/nagasaki-hirosima.tex) (./songs/nejlip-jim-bylo.tex [46])
+(./songs/netusim.tex [47]) (./songs/nina.tex [48]) (./songs/nosorozec.tex
+[49]) (./songs/o_malem_rytiri.tex [50]) (./songs/obchodnik-s-destem.tex
+[51]) (./songs/omnia_vincit_amor.tex [52]) (./songs/oregon.tex [53])
+(./songs/otevrena-zlomenina-srdecniho-svalu.tex [54]) (./songs/paty-kafe.tex
+[55]) (./songs/pisnicka-pro-tebe.tex [56]) (./songs/po-schodoch.tex)
+(./songs/pocity.tex [57]) (./songs/promeny.tex [58])
+(./songs/rada-se-miluje.tex [59]) (./songs/rodne-lany.tex)
+(./songs/samurajsky-mece.tex [60]) (./songs/saro.tex [61]) (./songs/sen.tex
+[62]) (./songs/sila-starejch-vin.tex) (./songs/slavici-z-madridu.tex [63])
+(./songs/slecna-anna-je-za-vodou.tex [64]) (./songs/srdce-jako-knize-rohan.tex
+[65] [66]) (./songs/svarak.tex) (./songs/svaz-ceskych-bohemu.tex [67])
+(./songs/srouby-a-matice.tex [68]) (./songs/tesar.tex [69] [70])
+(./songs/touha.tex) (./songs/trezor.tex [71]) (./songs/tri-krize.tex [72])
+(./songs/trip.tex [73]) (./songs/v-7-25.tex [74])
+(./songs/vecer-krupavych-srdicek.tex [75]) (./songs/ved-me-dal-cesto-ma.tex
+[76]) (./songs/vino.tex [77]) (./songs/voda-co-ma-drzi-nad-vodou.tex [78])
+(./songs/voda-uz-je-svarena.tex [79]) (./songs/za-svou-pravdou-stat.tex
+[80]) (./songs/zabili.tex [81]) (./songs/zafukane.tex [82])
+(./songs/zakazane-uvolneni.tex [83]) (./songs/zanedbany-sex.tex [84])
+(./songs/zeme-vzdalena.tex [85]) (./songs/znamka-punku.tex [86])
+(./songs/zrozeni-hvezd.tex [87]) (./songs/zelva.tex) (./songs/zily.tex [88]))
+[89] (./zpevnik.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-23>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4638 strings out of 474398
+ 77014 string characters out of 5752189
+ 1997033 words of memory out of 5000000
+ 26403 multiletter control sequences out of 15000+600000
+ 565597 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,7n,65p,202b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></op
+t/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/te
+xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/
+texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/texlive/texdir
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/texlive/texdir/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdir/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmssbx10.pfb></opt/texlive/texdir/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssi12.pfb></opt/texlive/texdir/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti10.pfb>
+Output written on zpevnik.pdf (89 pages, 541224 bytes).
+PDF statistics:
+ 345 PDF objects out of 1000 (max. 8388607)
+ 229 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
