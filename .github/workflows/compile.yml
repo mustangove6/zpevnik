@@ -26,10 +26,15 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: zpevnik.tex
+          post_compile: "texlua songidx.lua contents.sxd contents.sbx"
+      - name: Commit auxillary files to repo
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated update of created auxillary files
+          file_pattern: '*.sbx *.sxd'
       - name: Compile songbook
         uses: xu-cheng/latex-action@v3
-        with:
-          pre_compile: "texlua songidx.lua contents.sxd contents.sbx"
+        with: 
           root_file: zpevnik.tex
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
@@ -39,6 +44,6 @@ jobs:
       - name: Commit PDF to repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Automated update of created files
-          #file_pattern: '*.pdf'
+          commit_message: Automated update of compiled songbook
+          file_pattern: '*.pdf'
 
