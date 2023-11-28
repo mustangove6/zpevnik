@@ -22,15 +22,14 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v3
-      #- name: Create auxillary files for zpevnik.tex
-      #  uses: xu-cheng/latex-action@v3
-      #  with:
-      #    root_file: zpevnik.tex
-      #- name: Create index
-      #  run: texlua songidx.lua contents.sxd contents.sbx 
+      - name: Create auxillary files for zpevnik.tex
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: zpevnik.tex
       - name: Compile songbook
         uses: xu-cheng/latex-action@v3
         with:
+          pre_compile: "texlua songidx.lua contents.sxd contents.sbx"
           root_file: zpevnik.tex
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
