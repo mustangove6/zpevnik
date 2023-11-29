@@ -20,13 +20,15 @@
 \renewcommand{\printchord}[1]{\bf\sffamily\slshape#1} %Vzhled akordů
 %\baselineadj=-10pt plus 1pt minus 1pt
 
-\newindex{contents}{contents}
+\newindex{contents}{./contents}
 %\newindex{contentsen}{contentsen}
 \begin{document}
 	\maketitle
 	\thispagestyle{empty}
 	\includegraphics[width=0.9\textwidth]{cover}
 	\newpage
+ 	\showindex[3]{Rejstřík}{contents}
+  	\newpage
 	\songcolumns{2}
 	\songpos{3}
 	
